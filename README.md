@@ -40,7 +40,3 @@ Windows Server 2022 Domain Controller deployed on Microsoft Azure, with Active D
 | #5 | Service Request | New hire onboarding — created AD account and added to Sales-Group |
 
 ---
-
-## Certifications
-- ✅ AZ-900 — Microsoft Azure Fundamentals
-- 🔄 AZ-104 — Microsoft Azure Administrator *(in progress)*
